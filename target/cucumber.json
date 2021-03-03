@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-02-25T09:20:25.640Z",
+        "start_timestamp": "2021-03-01T10:55:22.464Z",
         "before": [
           {
             "result": {
-              "duration": 11000000,
+              "duration": 7000000,
               "status": "passed"
             },
             "match": {
@@ -16,7 +16,7 @@
           },
           {
             "result": {
-              "duration": 7154000000,
+              "duration": 5593000000,
               "status": "passed"
             },
             "match": {
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 10003000000,
+              "duration": 9851000000,
               "status": "passed"
             },
             "match": {
@@ -40,7 +40,7 @@
         "after": [
           {
             "result": {
-              "duration": 2000000,
+              "duration": 3000000,
               "status": "passed"
             },
             "match": {
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 4365000000,
+              "duration": 4349000000,
               "status": "passed"
             },
             "match": {
@@ -62,7 +62,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3816000000,
+              "duration": 1945000000,
               "status": "passed"
             },
             "line": 4,
@@ -74,7 +74,7 @@
           },
           {
             "result": {
-              "duration": 4035000000,
+              "duration": 4363000000,
               "status": "passed"
             },
             "line": 5,
@@ -86,7 +86,7 @@
           },
           {
             "result": {
-              "duration": 362000000,
+              "duration": 239000000,
               "status": "passed"
             },
             "line": 6,
@@ -98,7 +98,7 @@
           },
           {
             "result": {
-              "duration": 2291000000,
+              "duration": 2868000000,
               "status": "passed"
             },
             "line": 7,
@@ -122,11 +122,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-02-25T09:20:25.816Z",
+        "start_timestamp": "2021-03-01T10:55:22.600Z",
         "before": [
           {
             "result": {
-              "duration": 6000000,
+              "duration": 2000000,
               "status": "passed"
             },
             "match": {
@@ -135,7 +135,7 @@
           },
           {
             "result": {
-              "duration": 8618000000,
+              "duration": 7288000000,
               "status": "passed"
             },
             "match": {
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 9962000000,
+              "duration": 11835000000,
               "status": "passed"
             },
             "match": {
@@ -168,7 +168,7 @@
           },
           {
             "result": {
-              "duration": 949000000,
+              "duration": 1385000000,
               "status": "passed"
             },
             "match": {
@@ -181,7 +181,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4609000000,
+              "duration": 5558000000,
               "status": "passed"
             },
             "line": 4,
@@ -193,7 +193,7 @@
           },
           {
             "result": {
-              "duration": 7756000000,
+              "duration": 5132000000,
               "status": "passed"
             },
             "line": 5,
@@ -205,7 +205,7 @@
           },
           {
             "result": {
-              "duration": 174000000,
+              "duration": 202000000,
               "status": "passed"
             },
             "line": 6,
@@ -217,7 +217,7 @@
           },
           {
             "result": {
-              "duration": 5792000000,
+              "duration": 5801000000,
               "status": "passed"
             },
             "line": 7,
